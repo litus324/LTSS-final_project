@@ -1,5 +1,6 @@
 # Run code
 
+```shell
 !git clone https://github.com/litus324/LTSS-final_project.git
 %cd content/LTSS-final_project
 !mkdir build
@@ -11,4 +12,3 @@
 Run `./demo`.
 
 Result: 
-
