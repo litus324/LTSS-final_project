@@ -1,12 +1,7 @@
-# Lenet5
+# Run code
 
-## Usage
-Download and unzip [fashionMNIST](https://github.com/zalandoresearch/fashion-mnist) dataset in `Lenet5_PP/data/mnist/`.
-
-```shell
-#ran on google colab
-!git clone https://github.com/NLTDat20CLC/Lenet5_PP.git
-%cd content/Lenet5_PP
+!git clone https://github.com/litus324/LTSS-final_project.git
+%cd content/LTSS-final_project
 !mkdir build
 %cd build
 !cmake .. -DCMAKE_{C,CXX}_FLAGS="-O3 -march=native"
@@ -16,3 +11,4 @@ Download and unzip [fashionMNIST](https://github.com/zalandoresearch/fashion-mni
 Run `./demo`.
 
 Result: 
+
